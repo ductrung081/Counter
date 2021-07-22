@@ -1,2 +1,2 @@
-# test_counter
-Test counter
+# Javascript counter
+Counter
